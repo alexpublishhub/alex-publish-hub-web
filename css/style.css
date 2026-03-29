@@ -8075,7 +8075,7 @@ banner-section-h2
   font-size: 14px;
   color: var(--theme-color2);
   position: absolute;
-  right: 21px;
+  right: 30px;
   top: 13px;
 }
 .pricing-block .inner-box .shape-image1 {
@@ -20160,7 +20160,7 @@ Testimonial Section
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 25px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .footer-style-one .newsletter-widget .list-style-five li i {
   font-size: 30px;
